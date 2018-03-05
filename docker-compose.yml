@@ -1,5 +1,4 @@
 mysql:
-  name: mysql
   image: mysql
   ports:
     - "3306:3306"
